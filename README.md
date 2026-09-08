@@ -12,7 +12,7 @@ underlying content metadata?
 
 - **Source:** [Netflix Movies and TV Shows Dataset](https://github.com/rfordatascience/tidytuesday/tree/main/data/2021/2021-04-20), originally compiled by Shivam Bansal, distributed via the TidyTuesday project
 - **Size:** 7,787 titles × 12 columns
-- **Coverage:** Titles added to Netflix between 2008 and 2021
+- **Coverage:** Netflix titles with metadata including release year and date added to Netflix
 
 ## Methodology
 
@@ -36,9 +36,10 @@ underlying content metadata?
 
 | File | Description |
 |---|---|
-| `Netflix_nb.ipynb` | Full analysis notebook — cleaning, EDA, hypothesis testing, findings |
-| `Netflix_Capstone.pptx` | Presentation slide deck |
+| `222579_NgugiMichael.ipynb` | Full analysis notebook — cleaning, EDA, hypothesis testing, findings |
+| `222579_NgugiMichael.pptx` | Presentation slide deck |
 | `netflix_titles.csv` | Source dataset |
+| `requirements.txt` | Python libraries required to run the analysis |
 | `README.md` | This file |
 
 ## Tools Used
