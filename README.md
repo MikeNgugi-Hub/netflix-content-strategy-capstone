@@ -51,7 +51,6 @@ Python, Pandas, NumPy, Matplotlib, SciPy (`scipy.stats`) — Jupyter Notebook (P
 - Netflix Movies and TV Shows Dataset — Bansal / TidyTuesday (2021)
 - McHugh, M. L. (2013). The Chi-square test of independence. *Biochemia Medica*, 23(2), 143–149.
 - Netflix, Inc. (2020). *Notice of 2020 Annual Meeting of Stockholders and Proxy Statement* (Form DEF 14A). U.S. Securities and Exchange Commission.
-- Cosmas Gitonga, Statistics I coursework — hypothesis testing and APA reporting conventions
 
 ## Author
 
